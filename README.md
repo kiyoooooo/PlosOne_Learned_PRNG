@@ -7,9 +7,9 @@
 
 The project is organized as follows:
 
-- `code/Learned_PRNG.ipynb`: This Jupyter Notebook contains the implementation code for the LPRNG. It is where you can find the detailed programming logic and methodology employed to create the pseudo-random number generator.
+- `Learned_PRNG.ipynb`: This Jupyter Notebook contains the implementation code for the LPRNG. It is where you can find the detailed programming logic and methodology employed to create the pseudo-random number generator.
 
-- `model/WGAN_based_model.pth`: This file is the pre-trained LPRNG model based on the WGAN (Wasserstein Generative Adversarial Network) architecture. The model stored in this file has been trained and is ready to be used for generating random numbers.
+- `read_model_and_generate_noise.ipynb`: This file contains the code to load the trained model and generate random numbers.
 
 By exploring these directories, users can understand the implementation details and utilize the pre-trained model for generating pseudo-random numbers.
 
