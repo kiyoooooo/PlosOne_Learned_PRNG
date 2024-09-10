@@ -3,7 +3,7 @@
 
 "LPRNG" stands for Learned Pseudo Random Number Generator. It is a data-driven random number generator that leverages the power of Generative Adversarial Networks (GANs). The key objective of LPRNG is to train a model that can emulate the functionality of the Mersenne Twister, a widely used pseudo-random number generator. By doing so, LPRNG aims to create its own random number generators capable of passing the NIST (National Institute of Standards and Technology) random number tests, thereby ensuring the statistical robustness of the numbers it generates.
 
-## Directory Structure
+## File Descriptions
 
 The project is organized as follows:
 
